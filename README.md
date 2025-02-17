@@ -1,8 +1,8 @@
-# Fastgres
+# LIGHTNING_GRES
 
 - PATENTED: Postgres cluster with unique config of pgbouncer, patroni, haproxy (load balancing), and streaming replication, which handled 800 Mbps of json document throughput using a load generation tool called wrk.
 
-![fastgres run](fastgres_run.png)
+![lightninggres run](lightninggres_run.png)
 
 
-![fastgres patent](fastgres_patent.png)
+![lightninggres patent](lightninggres_patent.png)
